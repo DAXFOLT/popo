@@ -140,7 +140,8 @@
 
 ### Задание 15: ColorPicker для выбора цвета
 
-<img width="1275" height="792" alt="image" src="https://github.com/user-attachments/assets/389d681a-f968-4317-b85b-798969990761" />
+<img width="793" height="745" alt="image" src="https://github.com/user-attachments/assets/9ce02460-2bd6-477a-8123-a699871a346c" />
+
 
 
 ---
