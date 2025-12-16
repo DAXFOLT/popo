@@ -259,8 +259,7 @@
 ---
 
 ### Задание 30: GridView для отображения сетки элементов
-<img width="1289" height="435" alt="image" src="https://github.com/user-attachments/assets/9ba0705a-7770-45fa-8c3c-f2732b5db551" />
-<img width="1278" height="173" alt="image" src="https://github.com/user-attachments/assets/01fe7402-1108-43c9-851a-55508a934222" />
+<img width="359" height="172" alt="image" src="https://github.com/user-attachments/assets/e383da1c-3b01-448b-ab9b-e00fb6d37739" />
 
 
 
