@@ -188,7 +188,8 @@
 ### Задание 21: ProgressBar для отображения хода выполнения
 
 <img width="1262" height="132" alt="image" src="https://github.com/user-attachments/assets/97f5f3fd-6060-4efb-a4f3-2ff7349cac2f" />
-<img width="1266" height="142" alt="image" src="https://github.com/user-attachments/assets/3755602d-ae5f-46ba-b2c2-96086167d7d7" />
+<img width="822" height="123" alt="image" src="https://github.com/user-attachments/assets/3dd21199-bd8e-4fe4-ba2e-3e4a6a4efb10" />
+
 <img width="1274" height="114" alt="image" src="https://github.com/user-attachments/assets/653775ac-4331-4b0c-a8ac-32feb5366193" />
 
 
