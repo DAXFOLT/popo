@@ -600,13 +600,13 @@
 ### Задание 76: Приложение "Список дел"
 <img width="529" height="531" alt="image" src="https://github.com/user-attachments/assets/4e0768db-de53-4f18-a4e8-68a98f9ebadd" />
 
+<img width="449" height="505" alt="image" src="https://github.com/user-attachments/assets/773b155d-bf3d-4a5c-8965-8fbb011c0c59" />
+<img width="450" height="566" alt="image" src="https://github.com/user-attachments/assets/b20f1b8a-0e29-4453-a1c3-335047d13e9a" />
 ---
 
 ### Задание 77: Приложение "Калькулятор"
 <img width="837" height="293" alt="image" src="https://github.com/user-attachments/assets/bd66ba68-0ec7-4071-8646-edf2a2a6d164" />
 <img width="828" height="346" alt="image" src="https://github.com/user-attachments/assets/2fa33bec-4804-4cd3-87b8-d0b71ad8075e" />
-<img width="449" height="505" alt="image" src="https://github.com/user-attachments/assets/773b155d-bf3d-4a5c-8965-8fbb011c0c59" />
-<img width="450" height="566" alt="image" src="https://github.com/user-attachments/assets/b20f1b8a-0e29-4453-a1c3-335047d13e9a" />
 
 ---
 
