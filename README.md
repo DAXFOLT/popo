@@ -268,8 +268,8 @@
 ---
 
 ### Задание 31: ItemsControl для пользовательского отображения
+<img width="847" height="166" alt="image" src="https://github.com/user-attachments/assets/87a68105-6f1e-4081-b49e-07969181c2b2" />
 
-<img width="1277" height="171" alt="image" src="https://github.com/user-attachments/assets/882648da-8a3d-48aa-b5fd-3a83f29881c6" />
 
 
 ---
