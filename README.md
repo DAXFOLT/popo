@@ -285,14 +285,14 @@
 
 ### Задание 33: Привязка данных (Binding) к свойству
 
-<img width="1254" height="111" alt="image" src="https://github.com/user-attachments/assets/6b673f97-dccf-43e0-8da3-990cef2c1de4" />
-<img width="1264" height="102" alt="image" src="https://github.com/user-attachments/assets/35a4db9a-190f-4bfd-9646-8004c7a95bc8" />
+<img width="831" height="103" alt="image" src="https://github.com/user-attachments/assets/b4e61ec6-21fa-4907-97e8-c6f57ee1672e" />
 
 ---
 
 ### Задание 34: x:Bind для привязки данных
 
-<img width="1187" height="693" alt="image" src="https://github.com/user-attachments/assets/02affb56-ada9-4e5d-b790-2b59091b7169" />
+<img width="854" height="769" alt="image" src="https://github.com/user-attachments/assets/63370d82-9804-468a-bc2f-377d32f6dc51" />
+
 
 ---
 
@@ -307,16 +307,16 @@
 
 ### Задание 36: Событие TextChanged для фильтрации данных
 
-<img width="1262" height="402" alt="image" src="https://github.com/user-attachments/assets/82145511-5cf2-4127-bbb7-a839096ae638" />
-<img width="1272" height="210" alt="image" src="https://github.com/user-attachments/assets/a12ec8eb-75f0-4e83-8b41-5b7fdcd2166f" />
+<img width="855" height="357" alt="image" src="https://github.com/user-attachments/assets/95eb7715-e0f8-4690-809d-7d5bf6502bb1" />
+<img width="833" height="163" alt="image" src="https://github.com/user-attachments/assets/7b73c57f-2c1a-4c8d-965f-7a8d6932462f" />
+
 
 ---
 
 ### Задание 37: ObservableCollection для обновления UI
 
-<img width="1270" height="139" alt="image" src="https://github.com/user-attachments/assets/2022a004-77ed-42e7-ab93-6ebbec9eeea5" />
+<img width="286" height="259" alt="image" src="https://github.com/user-attachments/assets/302fa194-c4e4-43a4-98f4-4911bfe477d5" />
 
-<img width="211" height="339" alt="image" src="https://github.com/user-attachments/assets/d80a4e77-1ff5-4e2f-87d7-8081c3c468f7" />
 
 ---
 
@@ -324,14 +324,15 @@
 
 ### Задание 38: Создание пользовательского элемента управления (UserControl)
 
-<img width="1253" height="380" alt="image" src="https://github.com/user-attachments/assets/0fd1bd84-1d89-4481-be53-62bfbcf5c7c0" />
+<img width="830" height="493" alt="image" src="https://github.com/user-attachments/assets/6a4ff5e8-5873-4fd7-b3a9-b6976d5e8718" />
+
 
 
 ---
 
 ### Задание 39: Привязка к коллекции с DataTemplateSelector
 
-<img width="267" height="329" alt="image" src="https://github.com/user-attachments/assets/d2ea6085-2854-4131-9cdf-b9db897ffaae" />
+<img width="253" height="313" alt="image" src="https://github.com/user-attachments/assets/64e04949-e844-473c-82b4-2652e9c392f5" />
 
 
 ---
@@ -430,14 +431,17 @@
 
 ### Задание 53: Асинхронная загрузка данных
 
-<img width="460" height="179" alt="image" src="https://github.com/user-attachments/assets/5ad4db01-2520-41b8-b699-baf7e6d3338d" />
-<img width="424" height="260" alt="image" src="https://github.com/user-attachments/assets/76174106-fcc8-4ccc-a6ec-281369a610c8" />
+<img width="805" height="120" alt="image" src="https://github.com/user-attachments/assets/2e3c0470-7daf-415f-a002-6b5de1c554d7" />
+
+<img width="210" height="239" alt="image" src="https://github.com/user-attachments/assets/6a55f184-efe7-49b0-aa75-cd830d447e8e" />
+
 
 ---
 
 ### Задание 54: Валидация данных в форме
 
-<img width="328" height="300" alt="image" src="https://github.com/user-attachments/assets/240e6b09-fbdc-434a-bf74-69bd7aa38248" />
+<img width="385" height="337" alt="image" src="https://github.com/user-attachments/assets/16a89a42-2ca6-45fa-b8e3-f92667200899" />
+<img width="410" height="326" alt="image" src="https://github.com/user-attachments/assets/fdb3589f-860a-4630-a648-5f8f30d2ffb8" />
 
 ---
 
@@ -457,7 +461,8 @@
 
 ### Задание 57: Адаптивный дизайн (Adaptive Layout)
 
-<img width="823" height="663" alt="image" src="https://github.com/user-attachments/assets/a7217c33-cc20-4646-bc12-20e683fb6e22" />
+<img width="819" height="665" alt="image" src="https://github.com/user-attachments/assets/eddbbe4d-4767-4338-ae55-7350af7aa2a2" />
+
 
 
 ---
@@ -495,14 +500,15 @@
 ---
 
 ### Задание 62: Media элементы (Audio/Video)
-<img width="756" height="612" alt="image" src="https://github.com/user-attachments/assets/96b8e87e-f47c-430b-9d3b-f7130f5b98da" />
-<img width="799" height="614" alt="image" src="https://github.com/user-attachments/assets/8ea5b9ae-9cf0-49e2-bd2c-9098708eced2" />
+<img width="824" height="584" alt="image" src="https://github.com/user-attachments/assets/d6424fdb-99f4-4bab-ab44-42ee6f55c3a8" />
+
 
 
 ---
 
 ### Задание 63: Image и ImageBrush
-<img width="527" height="323" alt="image" src="https://github.com/user-attachments/assets/3c5f09a9-1fe3-4744-8a73-264b40c5af3d" />
+<img width="597" height="376" alt="image" src="https://github.com/user-attachments/assets/c078412a-0ed3-452c-8209-42137933c1ac" />
+
 
 
 
@@ -575,7 +581,8 @@
 
 ### Задание 73: Использование RelativePanel для сложного макета
 
-<img width="446" height="210" alt="image" src="https://github.com/user-attachments/assets/e5071805-ad1a-4dcf-ae05-454741690bd8" />
+<img width="298" height="92" alt="image" src="https://github.com/user-attachments/assets/799ff06b-e563-4ed0-85d0-86337334e68c" />
+
 
 ---
 
