@@ -98,6 +98,13 @@ class Child implements Parent{
 
 ### Задача 6: Интерфейс с несколькими методами
 Создайте интерфейс `Calculator` с методами `add()`, `subtract()`, `multiply()`.
+```dart
+abstract class Calculator {
+  int add();
+  int substract();
+  int multiply();
+}
+```
 
 ### Задача 7: Абстрактный класс с конструктором
 Создайте абстрактный класс `Person` с конструктором, инициализирующим имя и фамилию.
