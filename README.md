@@ -83,6 +83,18 @@ void accelerate();
 
 ### Задача 5: Простое наследование
 Создайте класс `Parent` и класс `Child`, который наследует `Parent` и переопределяет метод `greet()`.
+```dart
+class Parent{
+  void greet(){
+    print("Привет от Батька!");
+  }
+}
+class Child implements Parent{
+  void greet(){
+    print("Привет от братишки!");
+  }
+}
+```
 
 ### Задача 6: Интерфейс с несколькими методами
 Создайте интерфейс `Calculator` с методами `add()`, `subtract()`, `multiply()`.
