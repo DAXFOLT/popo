@@ -33,7 +33,7 @@ class Dog extends Animal
   }
 }
 ```
-```
+```dart
 void main(){
 print("Задание 2");
   Dog dog = Dog();
