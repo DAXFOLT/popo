@@ -72,6 +72,14 @@ print("\nЗадание 3");
 ```
 ### Задача 4: Абстрактный класс с полями
 Создайте абстрактный класс `Vehicle` с полем `speed` и абстрактным методом `accelerate()`.
+```
+abstract class Vehicle{
+  String speed;
+  
+  Vehicle (this.speed);
+  
+void accelerate();
+```
 
 ### Задача 5: Простое наследование
 Создайте класс `Parent` и класс `Child`, который наследует `Parent` и переопределяет метод `greet()`.
