@@ -20,7 +20,7 @@ class Circle implements Shape {
 
 ### Задача 2: Абстрактный метод без реализации
 Создайте абстрактный класс `Animal` с методом `sound()` и класс `Dog`, который выводит "Woof!".
-```
+```dart
 abstract class Animal{
   void sound();
 }
@@ -43,7 +43,7 @@ print("Задание 2");
 
 ### Задача 3: Множественная реализация интерфейса
 Создайте интерфейс `Drawable` и реализуйте его в классах `Rectangle` и `Triangle`.
-```
+```dart
 abstract class Drawable{
 void shapes();
 }
@@ -61,7 +61,7 @@ class Triangle implements Drawable{
   }
 }
 ```
-```
+```dart
 void main(){
 print("\nЗадание 3");
   Rectangle rectangle = Rectangle();
@@ -72,7 +72,7 @@ print("\nЗадание 3");
 ```
 ### Задача 4: Абстрактный класс с полями
 Создайте абстрактный класс `Vehicle` с полем `speed` и абстрактным методом `accelerate()`.
-```
+```dart
 abstract class Vehicle{
   String speed;
   
