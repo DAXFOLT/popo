@@ -108,7 +108,13 @@ abstract class Calculator {
 
 ### Задача 7: Абстрактный класс с конструктором
 Создайте абстрактный класс `Person` с конструктором, инициализирующим имя и фамилию.
-
+```dart
+abstract class Person{
+  String name;
+  String surname;
+  
+  Person(this.name,this.surname);
+```
 ### Задача 8: Полиморфизм через список
 Создайте список объектов типа `Shape` и выведите площадь каждой фигуры.
 
