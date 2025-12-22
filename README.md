@@ -20,6 +20,24 @@ class Circle implements Shape {
 
 ### Задача 2: Абстрактный метод без реализации
 Создайте абстрактный класс `Animal` с методом `sound()` и класс `Dog`, который выводит "Woof!".
+```
+abstract class Animal{
+  void sound();
+}
+
+class Dog extends Animal
+{
+  @override
+  void sound(){
+    print("Woof");
+  }
+}
+```
+```
+print("Задание 2");
+  Dog dog = Dog();
+  dog.sound();
+```
 
 ### Задача 3: Множественная реализация интерфейса
 Создайте интерфейс `Drawable` и реализуйте его в классах `Rectangle` и `Triangle`.
