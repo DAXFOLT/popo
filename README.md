@@ -34,14 +34,42 @@ class Dog extends Animal
 }
 ```
 ```
+void main(){
 print("Задание 2");
   Dog dog = Dog();
   dog.sound();
+}
 ```
 
 ### Задача 3: Множественная реализация интерфейса
 Создайте интерфейс `Drawable` и реализуйте его в классах `Rectangle` и `Triangle`.
+```
+abstract class Drawable{
+void shapes();
+}
 
+class Rectangle implements Drawable{
+  @override
+  void shapes(){
+  print("Rectangle");
+  }
+}
+class Triangle implements Drawable{
+  @override
+  void shapes(){
+    print("Triangle");
+  }
+}
+```
+```
+void main(){
+print("\nЗадание 3");
+  Rectangle rectangle = Rectangle();
+  rectangle.shapes();
+  Triangle triangle = Triangle();
+  triangle.shapes();
+}
+```
 ### Задача 4: Абстрактный класс с полями
 Создайте абстрактный класс `Vehicle` с полем `speed` и абстрактным методом `accelerate()`.
 
